@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/127410261?v=4" width="160" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/154041348?v=4" width="160" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Man Sovanna</h1>
