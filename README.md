@@ -46,7 +46,7 @@ I specialize in **Flutter mobile application development** and **modern web fron
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,nuxt,js,,html,css,tailwind,php,nodejs,firebase,mysql,sqlite,python,git,figma,arduino,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,vue,nuxt,js,html,css,tailwind,php,nodejs,firebase,mysql,sqlite,python,git,figma,arduino,c,cpp" />
 </p>
 
 ---
