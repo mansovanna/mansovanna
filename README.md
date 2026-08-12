@@ -57,8 +57,8 @@ I specialize in **Flutter mobile application development** and **modern web fron
   <a href="https://dev.to/mansovanna"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"/></a>
   <a href="https://linkedin.com/in/mansovanna"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   <a href="https://facebook.com/sovanna.sovanna.967"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"/></a>
-  <a href="https://instagram.com/mansovanna"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
-  <a href="https://www.youtube.com/c/itreanall"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/></a>
+  <a href="https://instagram.com/sovanna_m_a_n"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
+  <a href="https://www.youtube.com/c/itdevcoding"><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/></a>
 </p>
 
 ---
