@@ -11,92 +11,84 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=750&lines=Entry-Level+Software+Developer;Flutter+%7C+Dart+Mobile+Developer;Vue.js+%7C+Nuxt+Frontend+Developer;Laravel+%7C+PHP+Backend+Developer;Building+Real-World+Software+Projects+%F0%9F%87%B0%F0%9F%87%AD"
+    src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=750&lines=Entry-Level+Software+Developer;Flutter+%7C+Dart;Vue.js+%7C+Nuxt;Laravel+%7C+PHP;REST+API+%7C+MySQL"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mansovanna&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <a href="https://github.com/mansovanna">
+    <img
+      src="https://komarev.com/ghpvc/?username=mansovanna&label=Profile%20Views&color=0e75b6&style=flat"
+      alt="Profile Views"
+    />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Man Sovanna**, a **final-year IT student and software developer** from **Cambodia 🇰🇭**.
+Hello! I'm **Man Sovanna**, a **final-year IT student and developer from Cambodia 🇰🇭**.
 
-I build web and mobile applications with a focus on **practical software development, backend APIs, databases, and responsive user interfaces**.
+I build **web and mobile applications** and have hands-on experience working with frontend development, backend APIs, databases, and application integration.
 
-My main areas of development are:
+My primary development stack includes:
 
-* 📱 **Mobile Development** — Flutter & Dart
-* 🌐 **Frontend Development** — Vue.js, Nuxt & Tailwind CSS
-* ⚙️ **Backend Development** — Laravel & PHP
-* 🔌 **API Development** — REST APIs & API integration
-* 🗄️ **Database** — MySQL & SQLite
-* 🌐 **Networking** — TCP/IP, LAN, routers and basic network troubleshooting
-* 🔧 **Development Tools** — Git, GitHub, Figma and VS Code
+* 📱 **Flutter & Dart** — Cross-platform mobile applications
+* 🌐 **Vue.js & Nuxt** — Web frontend development
+* ⚙️ **Laravel & PHP** — Backend development and REST APIs
+* 🗄️ **MySQL & SQLite** — Database development
+* 🔌 **REST APIs** — API development and integration
+* 🔧 **Git & GitHub** — Source control and collaborative development
 
-I enjoy learning by building projects and solving practical problems through code.
-
----
-
-## 🚀 What I Build
-
-I have hands-on experience developing:
-
-* 📱 Cross-platform mobile applications with Flutter
-* 🌐 Responsive web applications with Vue.js
-* ⚙️ Backend systems and REST APIs with Laravel
-* 🗄️ Database-driven applications using MySQL
-* 🔐 Authentication and role-based application features
-* 🔎 Search, filtering and pagination
-* 📊 Dashboards, reports and data visualization
-* 🔌 IoT-related applications and sensor data systems
-
-Some of my projects are deployed on development/testing servers for real-world testing.
-
-> **Note:** Some deployed projects are hosted on temporary development infrastructure and may become unavailable when the server environment is discontinued. The source code remains available through my GitHub repositories whenever the project is public.
+I learn primarily by **building real projects, debugging problems, reading documentation, and improving my understanding of software engineering fundamentals**.
 
 ---
 
-## 🎯 Current Focus
+## 💻 Technical Skills
 
-Currently, I am focusing on improving my skills in:
+### Programming Languages
 
-* Software engineering fundamentals
-* Data Structures & Algorithms
-* Networking and HTTP fundamentals
-* REST API design
-* Laravel backend development
-* Vue.js / Nuxt frontend development
-* Flutter mobile development
-* Database design and SQL
-* Clean and maintainable code
-* Debugging and problem solving
+* Dart
+* PHP
+* JavaScript
+* Python
+* C
+* C++
+
+### Frameworks & Technologies
+
+* Flutter
+* Vue.js
+* Nuxt
+* Laravel
+* Tailwind CSS
+* Node.js
+* Firebase
+
+### Database
+
+* MySQL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* Figma
+* Arduino
+* VS Code
 
 ---
 
-## 🧰 Languages & Technologies
+## 🚀 Selected Projects
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,vue,nuxt,js,html,css,tailwind,php,laravel,nodejs,firebase,mysql,sqlite,python,git,github,figma,arduino,c,cpp"
-    alt="Languages and Technologies"
-  />
-</p>
-
----
-
-## 📌 Selected Projects
+My GitHub repositories contain source code from academic, personal, and practical development projects.
 
 ### 🏠 Dormitory Management System
 
-A web and mobile-based system developed for managing dormitory-related information and operations.
+A management system developed as a web and mobile application.
 
 **Technologies:**
 
@@ -106,23 +98,23 @@ A web and mobile-based system developed for managing dormitory-related informati
 * MySQL
 * REST API
 
-**Focus:**
+**Development areas:**
 
 * Backend API development
 * Database design
-* Mobile application development
-* Web frontend
 * Authentication
 * CRUD operations
 * API integration
+* Web frontend
+* Mobile application
 
-🔗 [View my repositories](https://github.com/mansovanna)
+🔗 [View source code](https://github.com/mansovanna)
 
 ---
 
 ### 🛒 E-Commerce Web Application
 
-A web application project focused on building an e-commerce interface and application logic.
+A web application project focused on frontend development and application functionality.
 
 **Technologies:**
 
@@ -131,20 +123,21 @@ A web application project focused on building an e-commerce interface and applic
 * Tailwind CSS
 * REST API
 
-**Focus:**
+**Development areas:**
 
-* Responsive frontend development
-* Component-based UI
+* Component-based frontend development
+* Responsive UI
 * API integration
-* State and data handling
+* Data handling
+* Application logic
 
-🔗 [View repository](https://github.com/mansovanna)
+🔗 [View source code](https://github.com/mansovanna)
 
 ---
 
-### 📱 Flutter Mobile Applications
+### 📱 Flutter Applications
 
-I have developed several Flutter applications for academic and personal projects.
+Several mobile application projects developed using Flutter and Dart.
 
 **Technologies:**
 
@@ -154,21 +147,21 @@ I have developed several Flutter applications for academic and personal projects
 * Firebase
 * SQLite
 
-**Focus:**
+**Development areas:**
 
-* Cross-platform mobile development
+* Cross-platform application development
 * API integration
 * Local data storage
 * Authentication
-* Responsive UI
+* Application state and data handling
 
-🔗 [View repositories](https://github.com/mansovanna)
+🔗 [View source code](https://github.com/mansovanna)
 
 ---
 
-### 🌱 IoT & Mushroom Monitoring Project
+### 🌱 IoT & Environmental Monitoring
 
-An IoT-based project for collecting and monitoring environmental data using sensors.
+An IoT project for collecting and storing environmental sensor data.
 
 **Technologies:**
 
@@ -176,24 +169,24 @@ An IoT-based project for collecting and monitoring environmental data using sens
 * DHT22
 * PHP
 * MySQL
-* JavaScript
-* HTTP communication
+* HTTP
 
-**Focus:**
+**Development areas:**
 
 * Sensor data collection
 * Microcontroller programming
-* HTTP data transmission
+* HTTP communication
+* Server-side data processing
 * Database storage
 * Web-based monitoring
 
-🔗 [View repositories](https://github.com/mansovanna)
+🔗 [View source code](https://github.com/mansovanna)
 
 ---
 
-## 🧠 Computer Science & Technical Interests
+## 🧠 Computer Science Fundamentals
 
-I am continuously strengthening my understanding of fundamental computer science concepts, including:
+I am continuously strengthening my understanding of core computer science topics that support practical software development:
 
 * Data Structures
 * Algorithms
@@ -204,28 +197,38 @@ I am continuously strengthening my understanding of fundamental computer science
 * HTTP / HTTPS
 * Client-Server Architecture
 * REST APIs
-* Software Development Practices
+* Time and Space Complexity
 
-I believe strong fundamentals are important for becoming a better developer, regardless of the programming language or framework being used.
-
----
-
-## 🛠️ Development Approach
-
-When building software, I focus on:
-
-* Understanding the problem before writing code
-* Designing practical solutions
-* Writing readable and maintainable code
-* Separating frontend and backend responsibilities
-* Designing appropriate database structures
-* Testing APIs and application behavior
-* Debugging problems systematically
-* Learning from documentation and technical references
+My goal is to understand not only how to use frameworks, but also the fundamental concepts behind the software I build.
 
 ---
 
-## 📊 GitHub Activity
+## 🔍 How I Approach Development
+
+When working on a project, I try to:
+
+1. Understand the requirements and problem first
+2. Break the problem into smaller components
+3. Design the data and application flow
+4. Implement and test the solution
+5. Debug problems systematically
+6. Read documentation when I encounter unfamiliar technologies
+7. Improve the code after testing
+8. Keep the source code understandable and maintainable
+
+---
+
+## 🌐 Project Deployment
+
+Some of my projects have been deployed on **itdevcoding.com** for development and testing purposes.
+
+The server environment is temporary and is scheduled to be discontinued on **November 1, 2026**.
+
+Because the live deployments are temporary, **GitHub repositories are the primary source-code reference for my projects**.
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/mansovanna">
@@ -247,9 +250,22 @@ When building software, I focus on:
 
 ---
 
+## 🎯 Current Goal
+
+I am looking for an **Entry-Level Software Developer opportunity** where I can:
+
+* Apply my programming knowledge to real software projects
+* Strengthen my computer science fundamentals
+* Learn from experienced developers
+* Improve my problem-solving skills
+* Contribute to production software
+* Continue growing as a software developer
+
+---
+
 ## 💡 Developer Philosophy
 
-> **Learn consistently, build real projects, understand the fundamentals, and improve every day.**
+> **Understand the problem. Build the solution. Learn from the result. Improve the code.**
 
 ---
 
@@ -281,18 +297,10 @@ When building software, I focus on:
     />
   </a>
 
-  <a href="https://www.youtube.com/c/itdevcoding">
-    <img
-      width="40"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-      alt="YouTube"
-    />
-  </a>
-
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my GitHub profile!</b>
+  <b>Thanks for visiting my GitHub profile.</b>
 </p>
