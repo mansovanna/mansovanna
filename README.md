@@ -2,7 +2,6 @@
   <img
     src="https://avatars.githubusercontent.com/u/154041348?v=4"
     width="180"
-    style="border-radius: 50%; border: 4px solid #30363d;"
     alt="Man Sovanna"
   />
 </p>
@@ -19,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/mansovanna">
     <img
-      src="https://komarev.com/ghpvc/?username=mansovanna&label=Profile%20Views&color=0e75b6&style=flat"
+      src="https://komarev.com/ghpvc/?username=mansovanna&label=Profile%20Views&style=flat"
       alt="Profile Views"
     />
   </a>
@@ -29,177 +28,310 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Man Sovanna**, a **final-year IT student and developer from Cambodia 🇰🇭**.
+Hello! I'm **Man Sovanna**, a **final-year IT student and software developer from Cambodia 🇰🇭**.
 
-I build **web and mobile applications** and have hands-on experience working with frontend development, backend APIs, databases, and application integration.
+I build practical software projects across **web, backend, and mobile development**. My experience comes mainly from academic, personal, and practical projects where I work with frontend applications, REST APIs, databases, authentication, API integrations, and application logic.
 
 My primary development stack includes:
 
-* 📱 **Flutter & Dart** — Cross-platform mobile applications
-* 🌐 **Vue.js & Nuxt** — Web frontend development
-* ⚙️ **Laravel & PHP** — Backend development and REST APIs
-* 🗄️ **MySQL & SQLite** — Database development
-* 🔌 **REST APIs** — API development and integration
-* 🔧 **Git & GitHub** — Source control and collaborative development
+- 📱 **Flutter & Dart** — Cross-platform mobile applications
+- 🌐 **Vue.js & Nuxt** — Web frontend development
+- ⚙️ **Laravel & PHP** — Backend development and REST APIs
+- 🗄️ **MySQL & SQLite** — Database development
+- 🔌 **REST APIs** — API development and integration
+- 🔧 **Git & GitHub** — Source control and version control
 
-I learn primarily by **building real projects, debugging problems, reading documentation, and improving my understanding of software engineering fundamentals**.
+I learn primarily by **building projects, debugging problems, reading documentation, testing solutions, and strengthening my software engineering fundamentals**.
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Technical Skills
 
 ### Programming Languages
 
-* Dart
-* PHP
-* JavaScript
-* Python
-* C
-* C++
+- Dart
+- PHP
+- JavaScript
+- Python
+- C
+- C++
 
 ### Frameworks & Technologies
 
-* Flutter
-* Vue.js
-* Nuxt
-* Laravel
-* Tailwind CSS
-* Node.js
-* Firebase
+- Flutter
+- Vue.js
+- Nuxt
+- Laravel
+- Tailwind CSS
+- Node.js
+- Firebase
 
 ### Database
 
-* MySQL
-* SQLite
+- MySQL
+- SQLite
 
 ### Tools
 
-* Git
-* GitHub
-* Figma
-* Arduino
-* VS Code
+- Git
+- GitHub
+- Figma
+- Arduino
+- VS Code
 
 ---
 
 ## 🚀 Selected Projects
 
-My GitHub repositories contain source code from academic, personal, and practical development projects.
-
-### 🏠 Dormitory Management System
-
-A management system developed as a web and mobile application.
-
-**Technologies:**
-
-* Laravel / PHP
-* Vue.js
-* Flutter / Dart
-* MySQL
-* REST API
-
-**Development areas:**
-
-* Backend API development
-* Database design
-* Authentication
-* CRUD operations
-* API integration
-* Web frontend
-* Mobile application
-
-🔗 [View source code](https://github.com/mansovanna)
+The projects below represent practical development work from academic and personal projects.
 
 ---
 
-### 🛒 E-Commerce Web Application
+### 🏠 KSIT Dormitory Management System
 
-A web application project focused on frontend development and application functionality.
+**Type:** Academic Project  
+**Role:** Full-Stack Developer
+
+An independently developed dormitory management system consisting of a **web application, Laravel REST API backend, and Flutter mobile application**.
+
+The system was developed as three separate applications that communicate through the backend API.
+
+#### Web Application
 
 **Technologies:**
 
-* Vue.js
-* JavaScript
-* Tailwind CSS
-* REST API
+- Vue.js
+- TypeScript
+- Pinia
+- Tailwind CSS
+- Laravel REST API
 
 **Development areas:**
 
-* Component-based frontend development
-* Responsive UI
-* API integration
-* Data handling
-* Application logic
+- Web frontend development
+- API integration
+- Authentication
+- CRUD operations
+- Data management
+- Responsive UI
 
-🔗 [View source code](https://github.com/mansovanna)
+🔗 **Source Code:**  
+[Web Application Repository](YOUR_DORM_WEB_REPO)
+
+#### Backend API
+
+**Technologies:**
+
+- Laravel
+- PHP
+- MySQL
+- REST API
+
+**Development areas:**
+
+- REST API development
+- Authentication
+- Database design
+- CRUD operations
+- Business logic
+- Payment integration
+- PDF / document generation
+
+🔗 **Source Code:**  
+[Backend Repository](YOUR_DORM_BACKEND_REPO)
+
+#### Mobile Application
+
+**Technologies:**
+
+- Flutter
+- Dart
+- GetX
+- Dio
+- REST API
+- Bakong KHQR
+- PayWay
+
+**Development areas:**
+
+- Mobile UI development
+- API integration
+- Authentication
+- Payment integration
+- Local data handling
+- Application state management
+
+🔗 **Source Code:**  
+[Mobile Application Repository](YOUR_DORM_MOBILE_REPO)
 
 ---
 
-### 📱 Flutter Applications
+### 🛒 GoodFood POS / E-Commerce System
 
-Several mobile application projects developed using Flutter and Dart.
+**Type:** Personal / Practical Project
+
+A web application project for handling products, cart and checkout workflows, order management, table management, and payment integration.
 
 **Technologies:**
 
-* Flutter
-* Dart
-* REST API
-* Firebase
-* SQLite
+- Vue.js
+- Pinia
+- Laravel
+- PHP
+- MySQL
+- REST API
+- Bakong KHQR
+- PayWay
 
 **Development areas:**
 
-* Cross-platform application development
-* API integration
-* Local data storage
-* Authentication
-* Application state and data handling
+- Frontend development
+- Backend API integration
+- State management
+- Cart and checkout logic
+- Order management
+- Payment integration
+- Database operations
 
-🔗 [View source code](https://github.com/mansovanna)
+🔗 **Source Code:**  
+[GitHub Repository](https://github.com/mansovanna/e-com-makara)
 
 ---
 
-### 🌱 IoT & Environmental Monitoring
+### 🌱 Mushroom Farm IoT Monitoring System
 
-An IoT project for collecting and storing environmental sensor data.
+**Type:** Academic / IoT Project
+
+An IoT monitoring system developed for collecting environmental data from a mushroom farming environment.
+
+The system collects temperature and humidity data from sensors and sends the readings to a server for storage and monitoring.
 
 **Technologies:**
 
-* ESP8266 / NodeMCU
-* DHT22
-* PHP
-* MySQL
-* HTTP
+- ESP8266 / NodeMCU
+- DHT22
+- C++
+- PHP
+- MySQL
+- HTTP
+- HTML / CSS / JavaScript
 
 **Development areas:**
 
-* Sensor data collection
-* Microcontroller programming
-* HTTP communication
-* Server-side data processing
-* Database storage
-* Web-based monitoring
+- Sensor data collection
+- Microcontroller programming
+- HTTP communication
+- Server-side data processing
+- Database storage
+- Web-based monitoring
+- Environmental data visualization
 
-🔗 [View source code](https://github.com/mansovanna)
+🔗 **Source Code:**  
+[GitHub Repository](https://github.com/mansovanna/project-of-system-controller)
+
+---
+
+### 📚 Online Bookstore
+
+**Type:** Team Project  
+**Role:** Flutter Developer
+
+A team-developed online bookstore application with book browsing, search, book details, cart functionality, order tracking, wishlist, PDF reading, KHQR checkout, and an administration system.
+
+**Technologies:**
+
+- Flutter
+- Dart
+- Laravel
+- REST API
+- Bakong KHQR
+
+**Development areas:**
+
+- Flutter application development
+- API integration
+- UI implementation
+- Application state and data handling
+- Payment integration
+
+🔗 **Source Code:**  
+[GitHub Repository](https://github.com/haithaiheng/obs_flutter)
+
+---
+
+### 💻 Laravel + Vue E-Commerce
+
+**Type:** Academic / Personal Project
+
+A web application built with Laravel and Vue.js for product management, cart functionality, favorites, search, and API-based application data.
+
+**Technologies:**
+
+- Laravel
+- PHP
+- Vue.js
+- JavaScript
+- Vuex
+- Pinia
+- Tailwind CSS
+- REST API
+
+**Development areas:**
+
+- REST API integration
+- Component-based frontend development
+- CRUD operations
+- State management
+- Responsive UI
+- Application logic
+
+🔗 **Source Code:**  
+[GitHub Repository](https://github.com/mansovanna/laravel-app)
+
+---
+
+### 🏫 KSIT Meeting Management System
+
+**Type:** Academic Project
+
+A web-based meeting management system developed for managing and tracking meetings within an administrative environment.
+
+**Technologies:**
+
+- Laravel
+- PHP
+- Tailwind CSS
+- MySQL
+
+**Development areas:**
+
+- Web application development
+- CRUD operations
+- Database operations
+- Authentication
+- Responsive UI
+
+🔗 **Source Code:**  
+[GitHub Repository](https://github.com/mansovanna/meeting_system_ksit-2-)
 
 ---
 
 ## 🧠 Computer Science Fundamentals
 
-I am continuously strengthening my understanding of core computer science topics that support practical software development:
+I am continuously strengthening my understanding of core computer science fundamentals through university coursework, self-study, and practical projects.
 
-* Data Structures
-* Algorithms
-* Object-Oriented Programming
-* Database Systems
-* Operating Systems
-* Computer Networking
-* HTTP / HTTPS
-* Client-Server Architecture
-* REST APIs
-* Time and Space Complexity
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Database Fundamentals
+- Operating Systems Fundamentals
+- Computer Networking
+- HTTP / HTTPS
+- Client-Server Architecture
+- REST APIs
+- Time & Space Complexity
 
-My goal is to understand not only how to use frameworks, but also the fundamental concepts behind the software I build.
+I aim to understand the concepts behind the software I build rather than relying only on framework-specific knowledge.
 
 ---
 
@@ -210,11 +342,12 @@ When working on a project, I try to:
 1. Understand the requirements and problem first
 2. Break the problem into smaller components
 3. Design the data and application flow
-4. Implement and test the solution
-5. Debug problems systematically
-6. Read documentation when I encounter unfamiliar technologies
-7. Improve the code after testing
-8. Keep the source code understandable and maintainable
+4. Implement the solution
+5. Test the functionality
+6. Debug problems systematically
+7. Read official documentation when necessary
+8. Improve the implementation after testing
+9. Keep the source code understandable and maintainable
 
 ---
 
@@ -222,31 +355,9 @@ When working on a project, I try to:
 
 Some of my projects have been deployed on **itdevcoding.com** for development and testing purposes.
 
-The server environment is temporary and is scheduled to be discontinued on **November 1, 2026**.
+The current hosting environment is temporary and is scheduled to be discontinued on **November 1, 2026**.
 
-Because the live deployments are temporary, **GitHub repositories are the primary source-code reference for my projects**.
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/mansovanna">
-    <img
-      src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=mansovanna&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github"
-      alt="Man Sovanna's GitHub Stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mansovanna">
-    <img
-      src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=mansovanna&theme=nightowl&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
+Because these deployments are temporary, the **GitHub repositories are the primary source-code reference** for my projects.
 
 ---
 
@@ -254,12 +365,13 @@ Because the live deployments are temporary, **GitHub repositories are the primar
 
 I am looking for an **Entry-Level Software Developer opportunity** where I can:
 
-* Apply my programming knowledge to real software projects
-* Strengthen my computer science fundamentals
-* Learn from experienced developers
-* Improve my problem-solving skills
-* Contribute to production software
-* Continue growing as a software developer
+- Apply my programming knowledge to real software projects
+- Strengthen my computer science fundamentals
+- Improve my problem-solving skills
+- Learn from experienced developers
+- Contribute to software development projects
+- Improve my ability to design, implement, test, and maintain software
+- Continue growing as a software developer
 
 ---
 
